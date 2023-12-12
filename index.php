@@ -20,11 +20,11 @@
             <h1 class="mb-3">Login Form</h1>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Username</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1">
+                <input type="text" name="username" class="form-control" id="exampleFormControlInput1">
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Password</label>
-                <input type="password" class="form-control" id="exampleFormControlInput1">
+                <input type="password" name="password" class="form-control" id="exampleFormControlInput1">
             </div>
             <div class="mb-3">
                 <input class="btn btn-primary" type="submit" value="Login">
