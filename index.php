@@ -19,7 +19,7 @@
         <form action="" method="post" class="w-50 mx-auto bg-info p-4 rounded my-3">
             <h1 class="mb-3">Login Form</h1>
             <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">Username </label>
+                <label for="exampleFormControlInput1" class="form-label">Username</label>
                 <input type="text" name="username" class="form-control" id="exampleFormControlInput1">
             </div>
             <div class="mb-3">
